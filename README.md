@@ -3,8 +3,7 @@ Learn how to build a Micro eCommerce Web App with Python and Serverless Postgres
 
 
 ## Prerequisites
-- Python experience with [30 Days of Python](https://www.codingforentrepreneurs.com/courses/30-days-python-38/) or similiar
-- Django experience with [Try Django](https://www.codingforentrepreneurs.com/courses/try-django-3-2/) or similiar
+- Django and Python
 - Basic understanding of HTML and CSS
 
 ## Required Software
